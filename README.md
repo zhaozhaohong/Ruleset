@@ -1,2 +1,2 @@
-# ruleset
+# Ruleset
 Clash Ruleset
