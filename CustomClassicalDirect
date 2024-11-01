@@ -1,7 +1,14 @@
-# 域名关键词直连
+########## 域名关键词直连 ##########
+# 咪咕视频
 DOMAIN-KEYWORD,migu
+# 今日头条
 DOMAIN-KEYWORD,toutiao
+# 阿里巴巴插件
 DOMAIN-KEYWORD,alitools
+#关联OVH域名ovh.commander1.com
+DOMAIN-KEYWORD,commander
+##################################
 
-# 域名直连
+############ 域名直连 #############
 #DOMAIN-SUFFIX,cn
+##################################
