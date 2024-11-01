@@ -1,9 +1,15 @@
+# 微软系统时间同步
 time.windows.com
+# 移动139
 +.139.com
+# 京东
 +.jd.com
+# 慢慢买
 *.manmanbuy.com
+# 华为云cdn服务
 +.cdnhwc1.com
 +.cdnhwc5.com
+# NETCUP
 +.netcup.com
 +.netcup.de
 +.netcup.eu
@@ -12,12 +18,18 @@ time.windows.com
 +.friendlycaptcha.de
 +.friendlycaptcha.eu
 +.customercontrolpanel.de
+# HETZNER
 +.hetzner.com
 +.hetzner.de
 +.hetzner.eu
+# OVH
++.ovh.ie
 +.ovh.com
 +.ovhcloud.com
 +.commander1.com
+# 微信订阅号
 +.weixinbridge.com
+# HALO
 +.halo.run
+# 我爱卡
 +.51credit.com
