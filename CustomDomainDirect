@@ -56,3 +56,5 @@ payload:
   - '+.honor.com'
   # hamibot
   - '+.hamibot.com'
+  # 火山引擎
+  - '+.volces.com'
