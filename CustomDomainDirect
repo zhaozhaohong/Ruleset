@@ -1,8 +1,9 @@
 payload:
   # 微软系统时间同步
   - 'time.windows.com'
-  # 移动139
+  # 移动
   - '+.139.com'
+  - '+.komect.com'
   # 京东
   - '+.jd.com'
   # 慢慢买
