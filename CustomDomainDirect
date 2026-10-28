@@ -52,5 +52,6 @@ payload:
   - '+.deepseek.com'
   # 荣耀
   - '+.hihonorcloud.com'
+  - '+.honor.com'
   # hamibot
   - '+.hamibot.com'
