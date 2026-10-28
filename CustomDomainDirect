@@ -4,6 +4,7 @@ payload:
   # 移动
   - '+.139.com'
   - '+.komect.com'
+  - '+.cmpay.com'
   # 京东
   - '+.jd.com'
   # 慢慢买
