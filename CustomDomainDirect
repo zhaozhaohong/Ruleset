@@ -59,3 +59,6 @@ payload:
   - '+.hamibot.com'
   # 火山引擎
   - '+.volces.com'
+  # TV
+  - '+.gitv.tv'
+  - '+.skysrt.com'
